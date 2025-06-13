@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(38, 40, 41);
+  width: 80%;
+  margin: auto;
+  background: linear-gradient(rgb(189, 44, 218),rgb(54, 28, 168) ,rgb(20, 168, 131));
+}
+h1 {
+  text-align: center;
+  color: #e4daeb;
+  font-size: 40px;
+}
+nav {
+  background-color:#9c31da ;
+  padding: 25px;
+  display: flex;
+  gap: 35px;
+  justify-content: left;
+  border-radius: 75px;
+  text-decoration: none;
+
+} 
+.TREV {position: relative;
+left: 960px;
+bottom: 40px;;
+width: 10px;
+height: 10px;
+}
+a {
+  text-decoration: none;
+   color: #e9e7eef5;
+}
+p {
+  color: #1b1b1b;
+  font-size: 25px;
+}
+h2 {
+  color: #d0cbd8;
+}
+
+.me{border-radius: 80%;
+border-left: auto;
+border-right: auto;
+display:flex;
+width: 150px
+}
+
+.TREVOR {
+  
+  padding: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+.trevor5 img{
+  border-radius: 50%;
+}
+.TREVOR1 { background-color:#451aaa;
+  font-size: 25px;
+}
+.trevor2 {
+  text-align: center;
+background:linear-gradient();
+display:flex;
+gap:260px;
+padding: 20px;
+}z
+.trevor2 a {
+  text-decoration:none;
+  color: azure;
+}
+.trevor3 {
+  text-align: center;
+  color:rgba(105, 107, 109, 0.877);
+}
+.trevor3 p{ color: rgba(10, 7, 7, 0.877);}
+.trevor3 a{color: rgb(191, 197, 204);}
+footer {
+  font-size: 2rem;
+  border: 2px solid black;
+ justify-content:center;
+}
